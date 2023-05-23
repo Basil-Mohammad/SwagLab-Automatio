@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-18T09:54:39 PDT" name="Default suite" finished-at="2023-04-18T09:54:42 PDT" duration-ms="2590">
+    <groups>
+    </groups>
+    <test started-at="2023-04-18T09:54:39 PDT" name="Default test" finished-at="2023-04-18T09:54:42 PDT" duration-ms="2590">
+      <class name="myTestCases">
+        <test-method is-config="true" signature="myBeforeTest()[pri:0, instance:myTestCases@3c443976]" started-at="2023-04-18T09:54:39 PDT" name="myBeforeTest" finished-at="2023-04-18T09:54:41 PDT" duration-ms="2076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myBeforeTest -->
+        <test-method signature="AddAllItemsToTheCart()[pri:0, instance:myTestCases@3c443976]" started-at="2023-04-18T09:54:41 PDT" name="AddAllItemsToTheCart" finished-at="2023-04-18T09:54:42 PDT" duration-ms="442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddAllItemsToTheCart -->
+        <test-method is-config="true" signature="myAfterTest()[pri:0, instance:myTestCases@3c443976]" started-at="2023-04-18T09:54:42 PDT" name="myAfterTest" finished-at="2023-04-18T09:54:42 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAfterTest -->
+      </class> <!-- myTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
